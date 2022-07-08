@@ -1,6 +1,9 @@
 ## TODO
 
-- [ ] Directory structure
-- [ ] Create plan
+
+
 
 ## DONE
+
+- [x] Directory structure
+- [x] Create plan
