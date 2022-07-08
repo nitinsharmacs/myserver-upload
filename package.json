@@ -1,0 +1,25 @@
+{
+  "name": "myserver-upload",
+  "version": "1.0.0",
+  "description": "file uploading module for myserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinsharmacs/myserver-upload.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "file-upload",
+    "myserver"
+  ],
+  "author": "nitin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinsharmacs/myserver-upload/issues"
+  },
+  "homepage": "https://github.com/nitinsharmacs/myserver-upload#readme"
+}
